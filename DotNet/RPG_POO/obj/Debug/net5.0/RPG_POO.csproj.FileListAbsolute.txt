@@ -1,0 +1,16 @@
+A:\Programming\Projetos DIO\DotNet\RPG_POO\bin\Debug\net5.0\RPG_POO.exe
+A:\Programming\Projetos DIO\DotNet\RPG_POO\bin\Debug\net5.0\RPG_POO.deps.json
+A:\Programming\Projetos DIO\DotNet\RPG_POO\bin\Debug\net5.0\RPG_POO.runtimeconfig.json
+A:\Programming\Projetos DIO\DotNet\RPG_POO\bin\Debug\net5.0\RPG_POO.runtimeconfig.dev.json
+A:\Programming\Projetos DIO\DotNet\RPG_POO\bin\Debug\net5.0\RPG_POO.dll
+A:\Programming\Projetos DIO\DotNet\RPG_POO\bin\Debug\net5.0\ref\RPG_POO.dll
+A:\Programming\Projetos DIO\DotNet\RPG_POO\bin\Debug\net5.0\RPG_POO.pdb
+A:\Programming\Projetos DIO\DotNet\RPG_POO\obj\Debug\net5.0\RPG_POO.csproj.AssemblyReference.cache
+A:\Programming\Projetos DIO\DotNet\RPG_POO\obj\Debug\net5.0\RPG_POO.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programming\Projetos DIO\DotNet\RPG_POO\obj\Debug\net5.0\RPG_POO.AssemblyInfoInputs.cache
+A:\Programming\Projetos DIO\DotNet\RPG_POO\obj\Debug\net5.0\RPG_POO.AssemblyInfo.cs
+A:\Programming\Projetos DIO\DotNet\RPG_POO\obj\Debug\net5.0\RPG_POO.csproj.CoreCompileInputs.cache
+A:\Programming\Projetos DIO\DotNet\RPG_POO\obj\Debug\net5.0\RPG_POO.dll
+A:\Programming\Projetos DIO\DotNet\RPG_POO\obj\Debug\net5.0\ref\RPG_POO.dll
+A:\Programming\Projetos DIO\DotNet\RPG_POO\obj\Debug\net5.0\RPG_POO.pdb
+A:\Programming\Projetos DIO\DotNet\RPG_POO\obj\Debug\net5.0\RPG_POO.genruntimeconfig.cache
