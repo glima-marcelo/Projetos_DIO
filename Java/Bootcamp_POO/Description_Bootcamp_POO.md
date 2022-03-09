@@ -1,8 +1,8 @@
-Criando um Banco Digital com Java e Orientação a Objetos
+Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
 O projeto faz parte do bootcamp GFT Starter #4 Java.
- As aulas foram ministradas pelo Dev Venilton da DIO.
- O projeto é uma abstração de banco financeiro usando POO com a Linguagem Java.
+ As aulas foram ministradas pela Dev Camila Cavalcante da DIO.
+ O projeto é uma abstração do sistema de bootcamps da DIO usando POO com a Linguagem Java.
  Foi utilizada a IDE IntelliJ para o desenvolvimento do código.
-Foi criada uma Master Class, uma Interface e Subclasses para instanciar os objetos (conta, iconta, cliente, conta corrente, conta poupança).
+Foram criadas classes e métodos para instanciar os objetos (dev, bootcamp, curso, mentoria, conteúdo).
 Foram praticadas todos os 4 paradigmas da POO Herança Encapsulamento Polimorfismo Abstração
