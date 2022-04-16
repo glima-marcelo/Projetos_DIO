@@ -14,7 +14,7 @@ setup(
     description="Projeto DIO - processamento de imagens com Python",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link",
+    url="https://github.com/glima-marcelo/Projetos_DIO/tree/master/Python/image-processing-package",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.5',
