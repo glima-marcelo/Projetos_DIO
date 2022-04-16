@@ -1,7 +1,7 @@
-# package_name
+# processamento_imagem
 
 Description. 
-The package package_name is used to:
+The processamento-imagem is used to:
 	Processing:
 		-Histogram matching
 		-Structural similarity
@@ -15,10 +15,10 @@ The package package_name is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image-processing
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install processamento_imagem
 
 ```bash
-pip install image-processing
+pip install processamento_imagem
 ```
 
 ## Author

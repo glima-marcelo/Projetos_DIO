@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="processamento-imagem",
+    name="processamento_imagem",
     version="0.0.1",
     author="Marcelo Goulart Lima",
     author_email="glima.marcelo@gmail.com",
@@ -17,5 +17,5 @@ setup(
     url="https://github.com/glima-marcelo/Projetos_DIO/tree/master/Python/processamento-imagem-package",
     packages=find_packages(),
     install_requires=requirements,
-    python_requires='>=3.5',
+    python_requires='>=3.8',
 )
