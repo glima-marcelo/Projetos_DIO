@@ -3,17 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dff0d5df-3a1d-49b8-923f-dd07ea3fbde2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../Java/Conceitos_Lacos/src/AulaGeral.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/processamento-imagem-package.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/processamento-imagem-package.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processamento-imagem/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/processamento_imagem/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processamento-imagem/processing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/processamento_imagem/processing/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processamento-imagem/processing/combination.py" beforeDir="false" afterPath="$PROJECT_DIR$/processamento_imagem/processing/combination.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processamento-imagem/processing/transformation.py" beforeDir="false" afterPath="$PROJECT_DIR$/processamento_imagem/processing/transformation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processamento-imagem/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/processamento_imagem/utils/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processamento-imagem/utils/io.py" beforeDir="false" afterPath="$PROJECT_DIR$/processamento_imagem/utils/io.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processamento-imagem/utils/plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/processamento_imagem/utils/plot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
